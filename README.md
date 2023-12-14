@@ -1,4 +1,3 @@
-# CODSOFT
 # CALCULATOR
 A calculator is a device or software tool designed for performing mathematical calculations. It can handle a variety of mathematical operations, ranging from basic arithmetic (addition, subtraction, multiplication, and division) to more advanced functions such as square roots, exponentiation, and trigonometric calculations.
 
